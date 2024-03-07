@@ -16,7 +16,7 @@ body {
   left: 0;
   width: 100%; /* Ширина всей страницы */
   z-index: 2; /* Убедитесь, что этот слой выше других элементов */
-  font-size: 14px;
+  font-size: 12px;
   font-family:  'Brush Script MT', cursive;
   color: #db3657;
   position: relative;
